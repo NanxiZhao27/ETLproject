@@ -1,6 +1,6 @@
 # ETLproject
 
-Coal vs Electric enrgy generation by state in 2014
+Coal vs Electric energy generation by state in 2014
 
 Data Sources:
 
