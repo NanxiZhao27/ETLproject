@@ -11,7 +11,7 @@ State Population Total: 2010 - 2019
 https://www.census.gov/data/datasets/time-series/demo/popest/2010s-state-total.html
 
 
-Wtite Up:
+Write Up:
 
 Extract: Stephanie
 
