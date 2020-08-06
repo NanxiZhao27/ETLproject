@@ -13,9 +13,11 @@ https://www.census.gov/data/datasets/time-series/demo/popest/2010s-state-total.h
 
 Write Up:
 
-Extract: Stephanie
+Extract: 
+We were able to obtain 2 relevant CSV files from Kaggle and census.gov, where we extracted data on energy (electricity and coal) consumption in BTU for each state in the US, as well as their populations in the year of 2014.
 
-Transform: Stephanie
+Transform: 
+As far as transforming and cleaning up the data we obtained, we started by reading in the CSV files, after which we created a filtered dataframe from relevant columns, renamed them, and created the database connection with the transformed dataframes.
 
 Load:
 We loaded the data from the two datasets from Jupyter Notebook into ProgresSQL. Firstly, we created two tables to represent the landing spots for the two data sets. 
